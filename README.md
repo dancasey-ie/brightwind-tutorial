@@ -26,7 +26,6 @@ python --version
 If you don't have Git installed, you can download it from [git-scm.com](git-scm.com).
 
 
-
 ## Getting Started
 
 ### Clone Repo
@@ -38,7 +37,7 @@ git clone https://github.com/dancasey-ie/brightwind-tutorial
 
 ### Activate Virtual Environment
 ```bash
-cd brighthub-notebooks
+cd brightwind-tutorial
 python -m venv ./venv
 venv\Scripts\activate # Windows CMD
 # source venv/Scripts/activate # Windows Bash
